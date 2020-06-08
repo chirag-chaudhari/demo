@@ -12,7 +12,7 @@
           "card": "https:\/\/le1.cdn01.net\/videos\/0000194\/0194778\/thumbs\/0194778__015f.jpg",
           "background": "https:\/\/le1.cdn01.net\/videos\/0000194\/0194778\/thumbs\/0194778__015oahd.jpg",
           "sources": [
-            "http://edge-hls-vod-media.cdn01.net/encoded/0000194/0194778/video_1880k/Z6IQTM1US.mp4.m3u8?source=androidtv&channel_id=7420&app_type=androidtv&client_id=753592356633133349"
+            "https://www.lightcast.com/api/video/video_m3u8.php?source=androidtv&app_type=androidtv&channel_id=7420&video_id=194778&code=Z6IQTM1US&ext=.m3u8"
           ],
           "subtitles": [
             
